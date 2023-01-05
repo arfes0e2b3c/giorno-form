@@ -201,7 +201,7 @@ export default {
   name: 'IndexPage',
   data(){
     return{
-      other: '理工学部'
+      other: ''
     }
   },
   computed: {
